@@ -9,9 +9,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Final-year Application Development student** at Emeris (Golden Key International Honour Society member).
-- 🏛️ **Elected Academic Representative** for the Faculty of Science & Technology, liaising between student bodies and executive leadership.
-- 🛠️ **System Delivery & Advisory Focus:** Specializing in translating complex, ambiguous operational problems into production-grade systems—spanning native mobile clients, enterprise .NET backends, and cloud deployments.
+- 🎓 **Final-year Application Development student** at Emeris.
+- 🏅 **Golden Key International Honour Society member** (inducted 2025, top 15% academic standing).
+- 🏛️ **Elected Academic Representative 2026** for the Faculty of Science & Technology, liaising between student bodies and executive leadership.
+- 🛠️ **System Delivery & Advisory Focus:** Specializing in translating complex, ambiguous operational problems into production-grade systems spanning native mobile clients, enterprise .NET backends, and cloud deployments.
 - 📚 **Academic Peer Tutor** in Java and C#, breaking down complex object-oriented design and database architectures into practical mental models.
 
 ---
